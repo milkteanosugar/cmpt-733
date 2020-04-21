@@ -1,0 +1,8 @@
+
+First, Thanks to Nwamaka's medium post(https://medium.com/nwamaka-imasogie/clinicalbert-using-deep-learning-transformer-model-to-predict-hospital-readmission-c82ff0e4bb03), 
+which offers the data preprocessing stage as well as some guidance on classification. The following project will read the data from the pre-processed stage, 
+and perform the machine learning techniques on Readmission prediction.
+ 
+In this directory, our team performed our own research on NLP processing. This was a supplementary research on pure text processing.
+The detailed step-by-step instructions were shown in "NLP_readmission.ipynb"
+
